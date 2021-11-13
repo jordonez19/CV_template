@@ -358,9 +358,12 @@ header{
 
 .top{
     position: fixed;
-    bottom:7.5rem; right: 2rem;
+    bottom:2.5rem;
+    right: 2rem;
     z-index: 100;
     display: none;
+    color: var(--yellow);
+    font-size:25px;
 }
 
 /* review */
