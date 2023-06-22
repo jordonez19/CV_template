@@ -188,6 +188,9 @@ b{
 .uppercase{
     text-transform: uppercase;
 }
+.white-text{
+    color: var(--white) !important;
+}
 /* review  */
 
 
